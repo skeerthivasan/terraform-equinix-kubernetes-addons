@@ -1,3 +1,4 @@
+<!-- TEMPLATE: This file was automatically generated with `generate_addon_structure.sh` and should be modified as necessary -->
 # Contributing
 
 This document provides guidelines for contributing to the module.

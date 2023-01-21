@@ -1,3 +1,5 @@
+# TEMPLATE: This file was automatically generated with `generate_addon_structure.sh`
+# TEMPLATE: and should be modified as necessary
 # TEMPLATE: All variables must have a description and should declare their type.
 # TEMPLATE: Set defaults whenever possible but do not set defaults for required properties.
 # TEMPLATE: Declare all variables in this file, sprawling declarations are difficult to identify.
